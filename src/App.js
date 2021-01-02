@@ -11,7 +11,7 @@ import Loading from './components/Loading/Loading';
 import './App.css';
 import myParameters from './particlesjs-config.json';
 
-const url = "https://face-detection-abw-api.herokuapp.com/";
+const url = "https://face-detection-abw-api.herokuapp.com";
 // const url = "http://localhost:3001";
 
 const initialState = {
